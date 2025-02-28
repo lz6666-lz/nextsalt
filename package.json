@@ -1,0 +1,13 @@
+{
+  "name": "@lz6666-lz/nextsalt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Lukasz",
+  "license": "MIT",
+  "description": "ble",
+  "dependencies": {
+    "@saltcorn/data": "^1.0.0"
+  }
+}
