@@ -8,6 +8,6 @@
   "license": "MIT",
   "description": "ble",
   "dependencies": {
-    "@saltcorn/data": ""
+    "@saltcorn/data": "1.0.0"
   }
 }
