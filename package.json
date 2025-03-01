@@ -8,7 +8,7 @@
   "description": "ble",
   "dependencies": {
     "@saltcorn/data": "^1.0.0"
-  }
+  },
   "repository": "github:lz6666-lz/nextsalt",
   "publishConfig": {
     "access": "public"
