@@ -1,3 +1,6 @@
+module.exports = { sc_plugin_api_version: 1 };
+
+/*
 const { Plugin } = require("@saltcorn/data/models/plugin");
 
 module.exports = new Plugin({
@@ -10,3 +13,4 @@ module.exports = new Plugin({
     },
   },
 });
+*/
